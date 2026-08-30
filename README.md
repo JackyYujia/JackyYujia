@@ -1,35 +1,12 @@
 <div align="center">
 
-# 曹雨佳 · caoyujia
+<img src="./assets/profile-lab-banner.png" alt="曹雨佳 caoyujia，AI Infra / Backend / Cloud Native，研究 LLM Inference、KV Cache、AI Systems，构建 Backend Services、Cloud Infra、GPU Benchmark" width="100%">
 
-**AI Infra / Backend / Cloud Native**
-
-把复杂系统做成可靠、可观测、可持续演进的基础设施。
-
-深圳大学 · 计算机科学与技术硕士
+<p><strong>AI Infra / Backend / Cloud Native</strong><br>
+把复杂系统做成可靠、可观测、可持续演进的基础设施。<br>
+深圳大学 · 计算机科学与技术硕士</p>
 
 </div>
-
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### NOW EXPLORING
-
-`LLM Inference` · `KV Cache` · `AI Systems`
-
-</td>
-<td width="50%" valign="top">
-
-### BUILDING
-
-`Backend Services` · `Cloud Infra` · `GPU Benchmark`
-
-</td>
-</tr>
-</table>
 
 ## Experience
 
