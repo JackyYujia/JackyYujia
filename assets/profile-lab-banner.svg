@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760" role="img" aria-labelledby="title desc">
+  <title id="title">caoyujia research lab profile banner</title>
+  <desc id="desc">Systems in motion. AI Infra, backend systems, and cloud infrastructure.</desc>
+
+  <rect width="1400" height="760" fill="#f3f0e8"/>
+  <rect x="28" y="28" width="1344" height="704" fill="none" stroke="#c9c7be" stroke-width="2"/>
+
+  <g font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" fill="#68716d">
+    <text x="92" y="92" font-size="21" font-weight="700">CAOYUJIA / 2026</text>
+    <text x="1308" y="92" font-size="21" font-weight="700" text-anchor="end">SHENZHEN UNIVERSITY</text>
+  </g>
+
+  <line x1="92" y1="124" x2="1308" y2="124" stroke="#c9c7be" stroke-width="2"/>
+
+  <g transform="translate(92 0)">
+    <text x="0" y="274" fill="#172026" font-family="Georgia, Times New Roman, serif" font-size="104" font-weight="700">Systems</text>
+    <text x="0" y="372" fill="#172026" font-family="Georgia, Times New Roman, serif" font-size="104" font-weight="700">in motion.</text>
+
+    <text x="4" y="432" fill="#59645f" font-family="PingFang SC, Microsoft YaHei, Arial, sans-serif" font-size="28">研究 AI Infra、后端系统与云基础设施，</text>
+    <text x="4" y="474" fill="#59645f" font-family="PingFang SC, Microsoft YaHei, Arial, sans-serif" font-size="28">让复杂系统可靠、可观测、可持续演进。</text>
+
+    <g font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">
+      <text x="4" y="566" fill="#68716d" font-size="19" font-weight="700">AI INFRA / BACKEND / CLOUD NATIVE</text>
+      <text x="4" y="608" fill="#172026" font-size="25" font-weight="700">曹雨佳 · caoyujia</text>
+      <text x="4" y="646" fill="#59645f" font-size="22">Shenzhen, China</text>
+    </g>
+  </g>
+
+  <g transform="translate(786 174)" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">
+    <rect x="0" y="0" width="246" height="218" fill="#d9e5d2"/>
+    <text x="28" y="48" fill="#687561" font-size="18" font-weight="700">NOW EXPLORING</text>
+    <text x="28" y="102" fill="#172026" font-size="30" font-weight="700">LLM Inference</text>
+    <text x="28" y="146" fill="#172026" font-size="30" font-weight="700">KV Cache</text>
+    <text x="28" y="190" fill="#172026" font-size="30" font-weight="700">AI Systems</text>
+
+    <rect x="270" y="0" width="246" height="218" fill="#e6dcc9"/>
+    <text x="298" y="48" fill="#817360" font-size="18" font-weight="700">BUILDING</text>
+    <text x="298" y="102" fill="#172026" font-size="30" font-weight="700">Go Services</text>
+    <text x="298" y="146" fill="#172026" font-size="30" font-weight="700">Cloud Infra</text>
+    <text x="298" y="190" fill="#172026" font-size="30" font-weight="700">GPU Benchmark</text>
+
+    <rect x="0" y="250" width="158" height="172" fill="#477164"/>
+    <rect x="179" y="250" width="158" height="172" fill="#c98f67"/>
+    <rect x="358" y="250" width="158" height="172" fill="#8c98a7"/>
+
+    <text x="0" y="464" fill="#68716d" font-size="18" font-weight="700">CURRENT THREADS</text>
+    <text x="0" y="506" fill="#172026" font-size="23">vLLM · Triton · CUDA · Ascend</text>
+  </g>
+</svg>
