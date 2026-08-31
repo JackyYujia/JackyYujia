@@ -22,26 +22,17 @@
 
 ## 当前关注
 
-- **LLM Inference**：vLLM、SGLang、TensorRT-LLM、MiniVLLM、Continuous Batching、PagedAttention。
-- **PD 分离与 KV Cache**：Prefill / Decode 解耦、P2P 传输、Layerwise Cache、Prefix Cache、冷热迁移。
-- **推理传输链路**：Mooncake、LMCache、NIXL、PyNCCL Connector、RDMA / RoCE、D2D / H2D / D2H。
-- **GPU 与性能工程**：CUDA Graph、CUTLASS、GEMM、FlashMLA、DeepGEMM、NCCL-tests、nsys / ncu。
-- **模型部署与评测**：DeepSeek-R1、DeepSeek-V4、Qwen3-30B-A3B-FP8、Qwen3-32B、KTransformers。
-- **异构算力基础设施**：Ascend 910B3、FlexNPU、多卡推理、热迁移恢复、设备侧缓存与传输。
-- **后端与平台**：Go、C++、Python、Kubernetes、Docker、MySQL、Prometheus、Grafana。
+- **LLM Inference**、 **PD 分离与 KV Cache**、 **推理传输链路**、 **GPU 与性能工程**、、**模型部署与评测**、 **异构算力基础设施**、 **后端与平台**
 
 ## 工作经历
 
 ### 百度国际科技（深圳）有限公司
-
-**IaaS 研发实习生（后台功能开发） · 分布式云边缘计算组**  
-`2026.05 – 至今`
+**IaaS 研发实习生（后台功能开发） · 分布式云边缘计算组**  `2026.05 – 至今`
 - 参与 AICP 算力平台建设
 
-### 深圳华为云计算技术有限公司
+### 深圳华为云计算技术有限公司 
 
-**AI Infra / 后端开发实习生 · 云业务架构与设计部（ICT BG）**  
-`2025.03 – 2026.01`
+**AI Infra / 后端开发实习生 · 云业务架构与设计部（ICT BG）**  `2025.03 – 2026.01`
 - 参与 FlexNPU 大模型推理热迁移与传输链路研发
 
 ## 学习与研究目录
