@@ -1,12 +1,12 @@
 <div align="center">
 
-# 曹雨佳 · caoyujia
+# Jacky Yujia · 曹雨佳
 
 ### AI Infra / Backend / Cloud Native
 
 专注于大模型推理系统、算力基础设施与后端工程。
 
-[个人主页](https://world-cyj.github.io/) · [GitHub](https://github.com/world-cyj) · [Email](mailto:cyj2582329754@gmail.com)
+[个人主页](https://jackyyujia.github.io/) · [GitHub](https://github.com/JackyYujia) · [Email](mailto:cyj2582329754@gmail.com)
 
 </div>
 
@@ -118,21 +118,21 @@
 
 ## 精选项目
 
-### [MinivLLM_plus](https://github.com/world-cyj/MinivLLM_plus)
+### [MinivLLM_plus](https://github.com/JackyYujia/MinivLLM_plus)
 
 个人公开项目。围绕 Mini-vLLM 的推理流程进行学习与实现，关注 Scheduler、BlockManager、PagedAttention、Prefix Cache、Decode Kernel 和 Qwen3-32B 部署。
 
-### [AI-System-Performance-Lab](https://github.com/world-cyj/AI-System-Performance-Lab)
+### [AI-System-Performance-Lab](https://github.com/JackyYujia/AI-System-Performance-Lab)
 
 **学习 / 研究实践 · Fork**
 
 整理 GPU、AI Systems、推理服务和性能工程相关实验。该仓库用于学习和资料沉淀，非原创上游项目。
 
-### [Single-Card-Multi-Model-Colocation](https://github.com/world-cyj/Single-Card-Multi-Model-Colocation)
+### [Single-Card-Multi-Model-Colocation](https://github.com/JackyYujia/Single-Card-Multi-Model-Colocation)
 
 面向单卡多模型共置、资源分配与推理调度的实验项目，记录多模型服务场景下的资源利用问题。
 
-### [npu_ie](https://github.com/world-cyj/npu_ie)
+### [npu_ie](https://github.com/JackyYujia/npu_ie)
 
 NPU 相关工程实践仓库，记录设备侧推理、模型执行和异构算力方向的实验内容。
 
@@ -140,27 +140,27 @@ NPU 相关工程实践仓库，记录设备侧推理、模型执行和异构算�
 
 ### AI Systems / Performance
 
-- [MinivLLM_plus](https://github.com/world-cyj/MinivLLM_plus) · Mini-vLLM 推理引擎学习与实现
-- [AI-System-Performance-Lab](https://github.com/world-cyj/AI-System-Performance-Lab) · 学习 / 研究实践，Fork
-- [Single-Card-Multi-Model-Colocation](https://github.com/world-cyj/Single-Card-Multi-Model-Colocation) · 单卡多模型共置
-- [npu_ie](https://github.com/world-cyj/npu_ie) · NPU 工程实践
-- [vllm-omni](https://github.com/world-cyj/vllm-omni) · vLLM Omni 学习，Fork
+- [MinivLLM_plus](https://github.com/JackyYujia/MinivLLM_plus) · Mini-vLLM 推理引擎学习与实现
+- [AI-System-Performance-Lab](https://github.com/JackyYujia/AI-System-Performance-Lab) · 学习 / 研究实践，Fork
+- [Single-Card-Multi-Model-Colocation](https://github.com/JackyYujia/Single-Card-Multi-Model-Colocation) · 单卡多模型共置
+- [npu_ie](https://github.com/JackyYujia/npu_ie) · NPU 工程实践
+- [vllm-omni](https://github.com/JackyYujia/vllm-omni) · vLLM Omni 学习，Fork
 
 ### Backend / Infra
 
-- [adapnpu_serve](https://github.com/world-cyj/adapnpu_serve) · 推理服务与调度实验
-- [12306_demo](https://github.com/world-cyj/12306_demo) · Java 后端项目实践
-- [MediFlow](https://github.com/world-cyj/MediFlow) · JavaScript 应用项目
-- [LLM_codespace](https://github.com/world-cyj/LLM_codespace) · LLM 学习空间
-- [agent-skills](https://github.com/world-cyj/agent-skills) · AI Coding Agent Skills，Fork
+- [adapnpu_serve](https://github.com/JackyYujia/adapnpu_serve) · 推理服务与调度实验
+- [12306_demo](https://github.com/JackyYujia/12306_demo) · Java 后端项目实践
+- [MediFlow](https://github.com/JackyYujia/MediFlow) · JavaScript 应用项目
+- [LLM_codespace](https://github.com/JackyYujia/LLM_codespace) · LLM 学习空间
+- [agent-skills](https://github.com/JackyYujia/agent-skills) · AI Coding Agent Skills，Fork
 
 ### Learning Archive
 
-- [how-to-optim-algorithm-in-cuda](https://github.com/world-cyj/how-to-optim-algorithm-in-cuda) · CUDA 算法优化学习，Fork
-- [dive_into_deep_learning](https://github.com/world-cyj/dive_into_deep_learning) · 深度学习课程笔记
-- [LeetCode-Go](https://github.com/world-cyj/LeetCode-Go) · Go 语言算法题解，Fork
-- [AutoAgent](https://github.com/world-cyj/AutoAgent) · SpringAI Agent 学习，Fork
-- [claude-code-deep-dive](https://github.com/world-cyj/claude-code-deep-dive) · Claude Code 源码研究报告
+- [how-to-optim-algorithm-in-cuda](https://github.com/JackyYujia/how-to-optim-algorithm-in-cuda) · CUDA 算法优化学习，Fork
+- [dive_into_deep_learning](https://github.com/JackyYujia/dive_into_deep_learning) · 深度学习课程笔记
+- [LeetCode-Go](https://github.com/JackyYujia/LeetCode-Go) · Go 语言算法题解，Fork
+- [AutoAgent](https://github.com/JackyYujia/AutoAgent) · SpringAI Agent 学习，Fork
+- [claude-code-deep-dive](https://github.com/JackyYujia/claude-code-deep-dive) · Claude Code 源码研究报告
 
 ## 技术栈
 
